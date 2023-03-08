@@ -1,0 +1,20 @@
+{
+    "name": "The Zero Club",
+    "image": "ipfs://QmQtiDzD3VYFJP8B8aH8iJVaHyg4w8sagDh7FzcrSPz7kS",
+    "description": "The Zero Club is an NFT series for practice",
+    "external_url": "https://en.wikipedia.org/wiki/0",
+    "attributes": [
+      {
+        "trait_type": "FontColor",
+        "value": "??"
+      },
+      {
+        "trait_type": "Background",
+        "value": "??"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "? (?/10)"
+      }
+    ]
+  }

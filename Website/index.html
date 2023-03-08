@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Upload user input to GitHub page as DB</title>
+    
+  </head>
+  <body>
+    <h1>Upload user input to GitHub page as DB</h1>
+    
+    <button id="btnConnect"> Connect to Metamask </button>
+    <p id="metamaskStatus"> Connection Status: </p>
+    <br>
+
+    <label for="title">Title:</label>
+    <input type="text" id="title" name="title">
+    <br><br>
+
+    <label for="note">Note:</label>
+    <input type="text" id="note" name="note">
+    <br><br>
+   
+    <button id="btnMint"> Mint and Update DB Json </button>
+    <p id="mintStatus"> Mint Status: </p>
+    <br><br>
+
+    
+    <script src="https://cdn.ethers.io/lib/ethers-5.4.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/web3@1.5.2/dist/web3.min.js"></script>
+    <script type=module src="main.js" ></script>
+  </body>
+  
+</html>
+
+
